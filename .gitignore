@@ -1,0 +1,11 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.pdb
+build/
+
+# Release files
+*.zip
+release-*/
+dist/
