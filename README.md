@@ -77,4 +77,4 @@ gamma-toggle/
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-*Built with ❤️ using pure C and WinAPI.*
+*Built with ❤️*
