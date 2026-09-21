@@ -44,7 +44,7 @@ To build this project, you need a MinGW-w64 compiler toolchain (e.g., [w64devkit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/gamma-toggle.git
+   git clone https://github.com/ThisIsTheOldGuard/gamma-toggle.git
    cd gamma-toggle
    ```
 
